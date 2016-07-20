@@ -4,12 +4,12 @@ import {get, set} from 'scope';
 class A {
 
   constructor() {
-    this::set('a', 1);
+    this::set('a', 1); // set "private" member default value
   }
 
 
   get a() {
-    return this::get('a');
+    return this::get('a'); // get value
   }
 
   set a(value) {
