@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
+[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 [![Build Status](https://travis-ci.org/masalygin/scope.svg?branch=master)](https://travis-ci.org/masalygin/scope)
 [![Coverage Status](https://coveralls.io/repos/github/masalygin/scope/badge.svg?branch=master)](https://coveralls.io/github/masalygin/scope?branch=master)
 
