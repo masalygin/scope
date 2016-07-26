@@ -2,6 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/masalygin/scope/badge.svg?branch=master)](https://coveralls.io/github/masalygin/scope?branch=master)
 
 
+
 ```javascript
 import {get, set} from 'scope';
 
